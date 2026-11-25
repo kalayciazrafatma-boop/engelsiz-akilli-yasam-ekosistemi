@@ -1,0 +1,9 @@
+ultralytics
+mediapipe
+opencv-python
+gTTS
+deepface
+librosa
+pyodbc
+requests
+python-dotenv

@@ -1,0 +1,15 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.onnx
+raw_media/
+*.mp4
+*.avi
+*.wav
+*.mp3
+*.db
+*.sqlite3
+.vscode/
+.idea/

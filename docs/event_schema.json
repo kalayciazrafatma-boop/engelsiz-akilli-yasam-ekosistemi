@@ -1,0 +1,11 @@
+{
+  "event_id": "550e8400-e29b-41d4-a716-446655440000",
+  "timestamp": "2026-11-25T16:25:00+03:00",
+  "event_type": "fall_detected",
+  "source": "camera",
+  "confidence": 0.92,
+  "measurement": null,
+  "severity": "high",
+  "status": "new",
+  "test_mode": true
+}
